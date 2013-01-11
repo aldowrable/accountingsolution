@@ -1,0 +1,793 @@
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\bin\Debug\Accounting Solution Software.exe.config
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting Solution Software.csproj.ResolveComReference.cache
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\ResolveAssemblyReference.cache
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Chooser.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Akuntansi_JurnalUmum.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Akuntansi_SaldoAwal.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Akuntansi_TutupBuku.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Barang_Penerimaan.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Barang_StockOpname.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Karyawan.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Login.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan.Modul_Laporan_Supplier.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan.Modul_Laporan_Transfer_Stock_2.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Lapuran_Penjualan.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Transfer_stock.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_StockOpname.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_ReturPembelian.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Pembelian.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Neraca.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_LabaRugi.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Hutang.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_ArusKas.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Arus_KasKecil.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Arus_KasKecil_ByTransaksi.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_BukuBesar.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_JurnalUmum.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Pembelian_perTransaksi.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_PendapatanJasa.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_PenerimaanBarang.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_PenerimaanBarang_ByPembelian.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Piutang.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_ReturPenjualan.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Pembelian_PurchaseOrder.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Penjualan_Daftar.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Penjualan_DaftarPiutang.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Penjualan_PembayaranPiutang.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Penjualan_Retur.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Penjualan_SO.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_POS_Resep_Dokter.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Login.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.MainForm.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Akuntansi_KodePerkiraan.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Barang_CariPopup.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Barang_Data.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Barang_DataKelompok.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Barang_DataSatuan.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Barang_Pemindahan.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Bank.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Customer.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Dokter.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Group.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Gudang.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_JasaDokter.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Kota.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Pajak.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Salesman.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Supplier.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_SupplierPopUp.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Kas_Besar.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Kas_Kecil.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Pembelian.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Pembelian_DaftarHutang.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Pembelian_InputBarangPopup.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Pembelian_PembayaranHutang.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Pembelian_Retur.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_POS.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Customer_PopUp.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Dokter_PopUp.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Ganti_Operator_Laporan.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Jasa_Dokter_PopUp.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Pembayaran.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Point_Of_Sales.Modul_Penjualan_Resep.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Sinkronisasi.Modul_sinkronisasi_data_cabang.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Properties.Resources.resources
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting Solution Software.csproj.GenerateResource.Cache
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\RdlCompile.cache
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\RdlCompile.compiled
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\bin\Debug\Accounting Solution Software.exe.manifest
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\bin\Debug\Accounting Solution Software.application
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\bin\Debug\Accounting Solution Software.exe
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\bin\Debug\Accounting Solution Software.pdb
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\bin\Debug\Microsoft.StdFormat.dll
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting Solution Software.exe.manifest
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting Solution Software.application
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting Solution Software.exe
+H:\Violetha\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting Solution Software.pdb
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\bin\Debug\Accounting Solution Software.exe.config
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting Solution Software.csproj.ResolveComReference.cache
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting Solution Software.exe
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting Solution Software.pdb
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\bin\Debug\Accounting Solution Software.exe.manifest
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\bin\Debug\Accounting Solution Software.application
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\bin\Debug\Accounting Solution Software.exe
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\bin\Debug\Accounting Solution Software.pdb
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\bin\Debug\Microsoft.StdFormat.dll
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Chooser.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Akuntansi_JurnalUmum.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Akuntansi_SaldoAwal.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Akuntansi_TutupBuku.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Barang_Penerimaan.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Barang_StockOpname.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Karyawan.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Login.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan.Modul_Laporan_Supplier.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan.Modul_Laporan_Transfer_Stock_2.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Lapuran_Penjualan.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Transfer_stock.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_StockOpname.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_ReturPembelian.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Pembelian.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Neraca.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_LabaRugi.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Hutang.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_ArusKas.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Arus_KasKecil.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Arus_KasKecil_ByTransaksi.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_BukuBesar.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_JurnalUmum.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Pembelian_perTransaksi.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_PendapatanJasa.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_PenerimaanBarang.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_PenerimaanBarang_ByPembelian.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Piutang.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_ReturPenjualan.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Pembelian_PurchaseOrder.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Penjualan_Daftar.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Penjualan_DaftarPiutang.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Penjualan_PembayaranPiutang.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Penjualan_Retur.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Penjualan_SO.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_POS_Resep_Dokter.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Login.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.MainForm.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Akuntansi_KodePerkiraan.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Barang_CariPopup.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Barang_Data.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Barang_DataKelompok.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Barang_DataSatuan.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Barang_Pemindahan.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Bank.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Customer.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Dokter.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Group.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Gudang.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_JasaDokter.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Kota.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Pajak.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Salesman.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Supplier.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_SupplierPopUp.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Kas_Besar.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Kas_Kecil.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Pembelian.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Pembelian_DaftarHutang.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Pembelian_InputBarangPopup.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Pembelian_PembayaranHutang.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Pembelian_Retur.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_POS.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Customer_PopUp.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Dokter_PopUp.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Ganti_Operator_Laporan.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Jasa_Dokter_PopUp.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Pembayaran.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Point_Of_Sales.Modul_Penjualan_Resep.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Sinkronisasi.Modul_sinkronisasi_data_cabang.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Properties.Resources.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting Solution Software.csproj.GenerateResource.Cache
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\RdlCompile.cache
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\RdlCompile.compiled
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting Solution Software.exe.manifest
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Backup\Accounting Solution Software\obj\Debug\Accounting Solution Software.application
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\bin\Debug\Accounting Solution Software.exe.config
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting Solution Software.csproj.ResolveComReference.cache
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting Solution Software.exe
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting Solution Software.pdb
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Chooser.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Akuntansi_JurnalUmum.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Akuntansi_SaldoAwal.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Akuntansi_TutupBuku.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Barang_Penerimaan.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Barang_StockOpname.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Karyawan.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Login.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan.Modul_Laporan_Supplier.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan.Modul_Laporan_Transfer_Stock_2.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Lapuran_Penjualan.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Transfer_stock.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_StockOpname.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_ReturPembelian.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Pembelian.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Neraca.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_LabaRugi.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Hutang.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_ArusKas.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Arus_KasKecil.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Arus_KasKecil_ByTransaksi.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_BukuBesar.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_JurnalUmum.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Pembelian_perTransaksi.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_PendapatanJasa.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_PenerimaanBarang.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_PenerimaanBarang_ByPembelian.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Piutang.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_ReturPenjualan.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Pembelian_PurchaseOrder.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Penjualan_Daftar.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Penjualan_DaftarPiutang.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Penjualan_PembayaranPiutang.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Penjualan_Retur.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Penjualan_SO.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_POS_Resep_Dokter.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Login.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.MainForm.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Akuntansi_KodePerkiraan.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Barang_CariPopup.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Barang_Data.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Barang_DataKelompok.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Barang_DataSatuan.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Barang_Pemindahan.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Bank.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Customer.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Dokter.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Group.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Gudang.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_JasaDokter.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Kota.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Pajak.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Salesman.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Supplier.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_SupplierPopUp.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Kas_Besar.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Kas_Kecil.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Pembelian.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Pembelian_DaftarHutang.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Pembelian_InputBarangPopup.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Pembelian_PembayaranHutang.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Pembelian_Retur.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_POS.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Customer_PopUp.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Dokter_PopUp.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Ganti_Operator_Laporan.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Jasa_Dokter_PopUp.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Pembayaran.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Point_Of_Sales.Modul_Penjualan_Resep.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Sinkronisasi.Modul_sinkronisasi_data_cabang.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Properties.Resources.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting Solution Software.csproj.GenerateResource.Cache
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\RdlCompile.cache
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\RdlCompile.compiled
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\bin\Debug\Accounting Solution Software.exe.manifest
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\bin\Debug\Accounting Solution Software.application
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\bin\Debug\Accounting Solution Software.exe
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\bin\Debug\Accounting Solution Software.pdb
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\bin\Debug\Microsoft.StdFormat.dll
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting Solution Software.exe.manifest
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software-bckup\Accounting Solution Software\obj\Debug\Accounting Solution Software.application
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\bin\Debug\Accounting Solution Software.exe.config
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting Solution Software.csproj.ResolveComReference.cache
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting Solution Software.exe
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting Solution Software.pdb
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\bin\Debug\Accounting Solution Software.exe.manifest
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\bin\Debug\Accounting Solution Software.application
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\bin\Debug\Accounting Solution Software.exe
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\bin\Debug\Accounting Solution Software.pdb
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\bin\Debug\Microsoft.StdFormat.dll
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\ResolveAssemblyReference.cache
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Chooser.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Akuntansi_JurnalUmum.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Akuntansi_SaldoAwal.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Akuntansi_TutupBuku.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Barang_Penerimaan.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Barang_StockOpname.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Karyawan.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Login.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan.Modul_Laporan_Supplier.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan.Modul_Laporan_Transfer_Stock_2.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Lapuran_Penjualan.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Transfer_stock.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_StockOpname.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_ReturPembelian.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Pembelian.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Neraca.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_LabaRugi.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Hutang.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_ArusKas.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Arus_KasKecil.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Arus_KasKecil_ByTransaksi.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_BukuBesar.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_JurnalUmum.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Pembelian_perTransaksi.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_PendapatanJasa.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_PenerimaanBarang.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_PenerimaanBarang_ByPembelian.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Piutang.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_ReturPenjualan.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Pembelian_PurchaseOrder.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Penjualan_Daftar.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Penjualan_DaftarPiutang.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Penjualan_PembayaranPiutang.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Penjualan_Retur.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Penjualan_SO.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_POS_Resep_Dokter.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Login.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.MainForm.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Akuntansi_KodePerkiraan.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Barang_CariPopup.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Barang_Data.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Barang_DataKelompok.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Barang_DataSatuan.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Barang_Pemindahan.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Bank.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Customer.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Dokter.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Group.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Gudang.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_JasaDokter.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Kota.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Pajak.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Salesman.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Supplier.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_SupplierPopUp.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Kas_Besar.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Kas_Kecil.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Pembelian.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Pembelian_DaftarHutang.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Pembelian_InputBarangPopup.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Pembelian_PembayaranHutang.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Pembelian_Retur.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_POS.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Customer_PopUp.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Dokter_PopUp.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Ganti_Operator_Laporan.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Jasa_Dokter_PopUp.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Pembayaran.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Point_Of_Sales.Modul_Penjualan_Resep.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Sinkronisasi.Modul_sinkronisasi_data_cabang.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Properties.Resources.resources
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting Solution Software.csproj.GenerateResource.Cache
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\RdlCompile.cache
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\RdlCompile.compiled
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting Solution Software.exe.manifest
+G:\Mine\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting Solution Software.application
+H:\violetha\Accounting Solution Software\Accounting Solution Software\bin\Debug\Accounting Solution Software.exe.config
+H:\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting Solution Software.csproj.ResolveComReference.cache
+H:\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting Solution Software.exe
+H:\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting Solution Software.pdb
+E:\violetha\Accounting Solution Software\Accounting Solution Software\bin\Debug\Accounting Solution Software.exe.config
+E:\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting Solution Software.csproj.ResolveComReference.cache
+E:\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting Solution Software.exe
+E:\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting Solution Software.pdb
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\bin\Debug\Accounting Solution Software.exe.config
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting Solution Software.csproj.ResolveComReference.cache
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting Solution Software.exe
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting Solution Software.pdb
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Chooser.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Akuntansi_JurnalUmum.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Akuntansi_SaldoAwal.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Akuntansi_TutupBuku.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Barang_Penerimaan.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Barang_StockOpname.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Karyawan.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Login.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan.Modul_Laporan_Supplier.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Lapuran_Penjualan.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Transfer_stock.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_StockOpname.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_ReturPembelian.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Pembelian.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Neraca.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_LabaRugi.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Hutang.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_ArusKas.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Arus_KasKecil.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Arus_KasKecil_ByTransaksi.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_BukuBesar.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_JurnalUmum.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_PendapatanJasa.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_PenerimaanBarang.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_PenerimaanBarang_ByPembelian.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Piutang.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_ReturPenjualan.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Pembelian_PurchaseOrder.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Penjualan_Daftar.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Penjualan_DaftarPiutang.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Penjualan_PembayaranPiutang.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Penjualan_Retur.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Penjualan_SO.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_POS_Resep_Dokter.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Login.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.MainForm.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Akuntansi_KodePerkiraan.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Barang_CariPopup.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Barang_Data.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Barang_DataKelompok.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Barang_DataSatuan.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Barang_Pemindahan.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Bank.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Customer.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Dokter.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Group.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Gudang.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_JasaDokter.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Kota.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Pajak.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Salesman.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Supplier.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_SupplierPopUp.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Kas_Besar.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Kas_Kecil.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Pembelian.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Pembelian_DaftarHutang.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Pembelian_InputBarangPopup.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Pembelian_PembayaranHutang.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Pembelian_Retur.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_POS.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Customer_PopUp.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Dokter_PopUp.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Ganti_Operator_Laporan.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Jasa_Dokter_PopUp.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Pembayaran.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Point_Of_Sales.Modul_Penjualan_Resep.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Sinkronisasi.Modul_sinkronisasi_data_cabang.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Properties.Resources.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting Solution Software.csproj.GenerateResource.Cache
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\RdlCompile.cache
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\RdlCompile.compiled
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\bin\Debug\Accounting Solution Software.exe.manifest
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\bin\Debug\Accounting Solution Software.application
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\bin\Debug\Accounting Solution Software.exe
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\bin\Debug\Accounting Solution Software.pdb
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\bin\Debug\Microsoft.StdFormat.dll
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting Solution Software.exe.manifest
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting Solution Software.application
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\bin\Debug\Accounting Solution Software.exe.config
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting Solution Software.csproj.ResolveComReference.cache
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting Solution Software.exe
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting Solution Software.pdb
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\bin\Debug\Accounting Solution Software.exe.manifest
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\bin\Debug\Accounting Solution Software.application
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\bin\Debug\Accounting Solution Software.exe
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\bin\Debug\Accounting Solution Software.pdb
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\bin\Debug\Microsoft.StdFormat.dll
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Chooser.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Akuntansi_JurnalUmum.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Akuntansi_SaldoAwal.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Akuntansi_TutupBuku.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Barang_Penerimaan.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Barang_StockOpname.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Karyawan.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Login.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan.Modul_Laporan_Supplier.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan.Modul_Laporan_Transfer_Stock_2.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Lapuran_Penjualan.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Transfer_stock.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_StockOpname.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_ReturPembelian.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Pembelian.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Neraca.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_LabaRugi.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Hutang.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_ArusKas.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Arus_KasKecil.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Arus_KasKecil_ByTransaksi.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_BukuBesar.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_JurnalUmum.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Pembelian_perTransaksi.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_PendapatanJasa.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_PenerimaanBarang.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_PenerimaanBarang_ByPembelian.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Piutang.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_ReturPenjualan.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Pembelian_PurchaseOrder.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Penjualan_Daftar.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Penjualan_DaftarPiutang.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Penjualan_PembayaranPiutang.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Penjualan_Retur.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Penjualan_SO.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_POS_Resep_Dokter.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Login.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.MainForm.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Akuntansi_KodePerkiraan.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Barang_CariPopup.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Barang_Data.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Barang_DataKelompok.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Barang_DataSatuan.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Barang_Pemindahan.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Bank.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Customer.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Dokter.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Group.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Gudang.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_JasaDokter.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Kota.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Pajak.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Salesman.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Supplier.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_SupplierPopUp.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Kas_Besar.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Kas_Kecil.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Pembelian.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Pembelian_DaftarHutang.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Pembelian_InputBarangPopup.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Pembelian_PembayaranHutang.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Pembelian_Retur.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_POS.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Customer_PopUp.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Dokter_PopUp.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Ganti_Operator_Laporan.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Jasa_Dokter_PopUp.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Pembayaran.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Point_Of_Sales.Modul_Penjualan_Resep.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Sinkronisasi.Modul_sinkronisasi_data_cabang.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Properties.Resources.resources
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting Solution Software.csproj.GenerateResource.Cache
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\RdlCompile.cache
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\RdlCompile.compiled
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting Solution Software.exe.manifest
+C:\Documents and Settings\aldowrable\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting Solution Software.application
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Transfer_Stock_2.resources
+C:\Documents and Settings\dodo\Desktop\violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_PurchaseOrder.resources
+G:\Violetha\Accounting Solution Software\Accounting Solution Software\bin\Debug\Accounting Solution Software.exe.config
+G:\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting Solution Software.csproj.ResolveComReference.cache
+G:\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting Solution Software.exe
+G:\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting Solution Software.pdb
+C:\Documents and Settings\aldowrable\Desktop\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_PurchaseOrder.resources
+C:\Documents and Settings\aldowrable\Desktop\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Transfer_Stock_2.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\bin\Debug\Accounting Solution Software.exe.config
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\bin\Debug\Accounting Solution Software.exe.manifest
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\bin\Debug\Accounting Solution Software.application
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\bin\Debug\Accounting Solution Software.exe
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\bin\Debug\Accounting Solution Software.pdb
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\bin\Debug\Microsoft.StdFormat.dll
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting Solution Software.csproj.ResolveComReference.cache
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Chooser.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Akuntansi_JurnalUmum.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Akuntansi_SaldoAwal.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Akuntansi_TutupBuku.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Barang_Penerimaan.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Barang_StockOpname.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Karyawan.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Login.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_PurchaseOrder.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan.Modul_Laporan_Supplier.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Transfer_Stock_2.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Lapuran_Penjualan.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Transfer_stock.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_StockOpname.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_ReturPembelian.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Pembelian.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Neraca.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_LabaRugi.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Hutang.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Arus_KasKecil.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Arus_KasKecil_ByTransaksi.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_BukuBesar.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_JurnalUmum.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_PendapatanJasa.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_PenerimaanBarang.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_PenerimaanBarang_ByPembelian.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Piutang.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_ReturPenjualan.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Pembelian_PurchaseOrder.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Penjualan_Daftar.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Penjualan_DaftarPiutang.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Penjualan_PembayaranPiutang.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Penjualan_Retur.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Penjualan_SO.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_POS_Resep_Dokter.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Login.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.MainForm.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Akuntansi_KodePerkiraan.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Barang_CariPopup.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Barang_Data.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Barang_DataKelompok.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Barang_DataSatuan.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Barang_Pemindahan.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Bank.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Customer.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Dokter.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Group.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Gudang.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_JasaDokter.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Kota.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Pajak.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Salesman.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Supplier.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_SupplierPopUp.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Kas_Besar.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Kas_Kecil.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Pembelian.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Pembelian_DaftarHutang.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Pembelian_InputBarangPopup.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Pembelian_PembayaranHutang.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Pembelian_Retur.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_POS.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Customer_PopUp.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Dokter_PopUp.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Ganti_Operator_Laporan.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Jasa_Dokter_PopUp.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Pembayaran.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Point_Of_Sales.Modul_Penjualan_Resep.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Sinkronisasi.Modul_sinkronisasi_data_cabang.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Properties.Resources.resources
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting Solution Software.csproj.GenerateResource.Cache
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\RdlCompile.cache
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\RdlCompile.compiled
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting Solution Software.exe.manifest
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting Solution Software.application
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting Solution Software.exe
+C:\Documents and Settings\dodo\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting Solution Software.pdb
+E:\Temp Project\Violetha\Accounting Solution Software\Accounting Solution Software\bin\Debug\Accounting Solution Software.exe.config
+E:\Temp Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting Solution Software.csproj.ResolveComReference.cache
+E:\Temp Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting Solution Software.exe
+E:\Temp Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting Solution Software.pdb
+L:\Temp Project\Violetha\Accounting Solution Software\Accounting Solution Software\bin\Debug\Accounting Solution Software.exe.config
+L:\Temp Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting Solution Software.csproj.ResolveComReference.cache
+L:\Temp Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting Solution Software.exe
+L:\Temp Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting Solution Software.pdb
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\bin\Debug\Accounting Solution Software.exe.config
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\bin\Debug\Accounting Solution Software.exe.manifest
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\bin\Debug\Accounting Solution Software.application
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\bin\Debug\Accounting Solution Software.exe
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\bin\Debug\Accounting Solution Software.pdb
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\bin\Debug\Microsoft.StdFormat.dll
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting Solution Software.csproj.ResolveComReference.cache
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Chooser.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Akuntansi_JurnalUmum.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Akuntansi_SaldoAwal.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Akuntansi_TutupBuku.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Barang_Penerimaan.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Barang_StockOpname.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Karyawan.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Login.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_PurchaseOrder.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Supplier.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Transfer_Stock_2.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Lapuran_Penjualan.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Transfer_stock.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_StockOpname.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_ReturPembelian.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Pembelian.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Neraca.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_LabaRugi.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Hutang.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Arus_KasKecil.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Arus_KasKecil_ByTransaksi.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_BukuBesar.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_JurnalUmum.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_PendapatanJasa.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_PenerimaanBarang.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_PenerimaanBarang_ByPembelian.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Piutang.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_ReturPenjualan.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Pembelian_PurchaseOrder.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Penjualan_Daftar.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Penjualan_DaftarPiutang.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Penjualan_PembayaranPiutang.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Penjualan_Retur.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Penjualan_SO.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_POS_Resep_Dokter.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Login.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.MainForm.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Akuntansi_KodePerkiraan.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Barang_CariPopup.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Barang_Data.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Barang_DataKelompok.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Barang_DataSatuan.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Barang_Pemindahan.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Bank.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Customer.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Dokter.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Group.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Gudang.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_JasaDokter.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Kota.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Pajak.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Salesman.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Supplier.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_SupplierPopUp.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Kas_Besar.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Kas_Kecil.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Pembelian.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Pembelian_DaftarHutang.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Pembelian_InputBarangPopup.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Pembelian_PembayaranHutang.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Pembelian_Retur.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_POS.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Customer_PopUp.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Dokter_PopUp.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Ganti_Operator_Laporan.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Jasa_Dokter_PopUp.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Pembayaran.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Point_Of_Sales.Modul_Penjualan_Resep.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Sinkronisasi.Modul_sinkronisasi_data_cabang.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Properties.Resources.resources
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting Solution Software.csproj.GenerateResource.Cache
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\RdlCompile.cache
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\RdlCompile.compiled
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting Solution Software.exe.manifest
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting Solution Software.application
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting Solution Software.exe
+C:\Documents and Settings\aldowrable\Desktop\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting Solution Software.pdb
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\bin\Debug\Accounting Solution Software.exe.config
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting Solution Software.csproj.ResolveComReference.cache
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting Solution Software.exe
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting Solution Software.pdb
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\bin\Debug\Accounting Solution Software.exe.manifest
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\bin\Debug\Accounting Solution Software.application
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\bin\Debug\Accounting Solution Software.exe
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\bin\Debug\Accounting Solution Software.pdb
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\bin\Debug\Microsoft.StdFormat.dll
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Chooser.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Akuntansi_JurnalUmum.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Akuntansi_SaldoAwal.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Akuntansi_TutupBuku.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Barang_Penerimaan.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Barang_StockOpname.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Karyawan.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Login.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_PurchaseOrder.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Supplier.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Transfer_Stock_2.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Lapuran_Penjualan.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Transfer_stock.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_StockOpname.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_ReturPembelian.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Pembelian.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Neraca.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_LabaRugi.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Hutang.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Arus_KasKecil.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Arus_KasKecil_ByTransaksi.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_BukuBesar.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_JurnalUmum.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_PendapatanJasa.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_PenerimaanBarang.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_PenerimaanBarang_ByPembelian.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_Piutang.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Laporan_ReturPenjualan.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Pembelian_PurchaseOrder.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Penjualan_Daftar.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Penjualan_DaftarPiutang.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Penjualan_PembayaranPiutang.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Penjualan_Retur.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Penjualan_SO.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_POS_Resep_Dokter.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Login.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.MainForm.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Akuntansi_KodePerkiraan.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Barang_CariPopup.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Barang_Data.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Barang_DataKelompok.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Barang_DataSatuan.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Barang_Pemindahan.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Bank.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Customer.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Dokter.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Group.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Gudang.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_JasaDokter.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Kota.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Pajak.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Salesman.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Supplier.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_SupplierPopUp.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Kas_Besar.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Kas_Kecil.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Pembelian.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Pembelian_DaftarHutang.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Pembelian_InputBarangPopup.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Pembelian_PembayaranHutang.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Pembelian_Retur.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_POS.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Customer_PopUp.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Data_Dokter_PopUp.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Ganti_Operator_Laporan.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Jasa_Dokter_PopUp.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Pembayaran.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Point_Of_Sales.Modul_Penjualan_Resep.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Modul_Sinkronisasi.Modul_sinkronisasi_data_cabang.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting_Solution_Software.Properties.Resources.resources
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting Solution Software.csproj.GenerateResource.Cache
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\RdlCompile.cache
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\RdlCompile.compiled
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting Solution Software.exe.manifest
+E:\Project\Project\Violetha\Accounting Solution Software\Accounting Solution Software\obj\Debug\Accounting Solution Software.application

@@ -1,0 +1,19 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>c:\Documents and Settings\Administrator\Desktop\Aplikasi Baru\YOPE\Publish\|E:\Documents and Settings\Administrator\Desktop\Aplikasi Baru\YOPE\Publish\|E:\Documents and Settings\Administrator\Desktop\Aplikasi Baru\Publish\|C:\Documents and Settings\aldowrable\Desktop\Aplikasi Baru\Publish\|E:\Documents and Settings\RemoteUser\Desktop\Publish\</PublishUrlHistory>
+    <InstallUrlHistory>
+    </InstallUrlHistory>
+    <SupportUrlHistory>
+    </SupportUrlHistory>
+    <UpdateUrlHistory>
+    </UpdateUrlHistory>
+    <BootstrapperUrlHistory>
+    </BootstrapperUrlHistory>
+    <ErrorReportUrlHistory>
+    </ErrorReportUrlHistory>
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+    <ReferencePath>E:\Program Files\Business Objects\Common\2.8\managed\C:\Program Files\Business Objects\Common\2.8\managed\</ReferencePath>
+    <EnableSecurityDebugging>false</EnableSecurityDebugging>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,307 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Retur" targetNamespace="http://tempuri.org/Retur.xsd" xmlns:mstns="http://tempuri.org/Retur.xsd" xmlns="http://tempuri.org/Retur.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="ConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="ConnectionString (Settings)" PropertyReference="ApplicationSettings.Accounting_Solution_Software.Properties.Settings.GlobalReference.Default.ConnectionString" Provider="System.Data.OleDb" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="view_ReturJual_NoBonTableAdapter" GeneratorDataComponentClassName="view_ReturJual_NoBonTableAdapter" Name="view_ReturJual_NoBon" UserDataComponentName="view_ReturJual_NoBonTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ConnectionString (Settings)" DbObjectName="Pos.dbo.view_ReturJual_NoBon" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT NomorFaktur, TglTransaksi, NoExFaktur, SubTotal, DiscTotal, DiscRp, JumlahRetur, KodePelanggan, NamaPelanggan, Pembayaran, KodeSalesman FROM dbo.view_ReturJual_NoBon</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="NomorFaktur" DataSetColumn="NomorFaktur" />
+              <Mapping SourceColumn="TglTransaksi" DataSetColumn="TglTransaksi" />
+              <Mapping SourceColumn="NoExFaktur" DataSetColumn="NoExFaktur" />
+              <Mapping SourceColumn="SubTotal" DataSetColumn="SubTotal" />
+              <Mapping SourceColumn="DiscTotal" DataSetColumn="DiscTotal" />
+              <Mapping SourceColumn="DiscRp" DataSetColumn="DiscRp" />
+              <Mapping SourceColumn="JumlahRetur" DataSetColumn="JumlahRetur" />
+              <Mapping SourceColumn="KodePelanggan" DataSetColumn="KodePelanggan" />
+              <Mapping SourceColumn="NamaPelanggan" DataSetColumn="NamaPelanggan" />
+              <Mapping SourceColumn="Pembayaran" DataSetColumn="Pembayaran" />
+              <Mapping SourceColumn="KodeSalesman" DataSetColumn="KodeSalesman" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="view_ReturSubJual_StockTableAdapter" GeneratorDataComponentClassName="view_ReturSubJual_StockTableAdapter" Name="view_ReturSubJual_Stock" UserDataComponentName="view_ReturSubJual_StockTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ConnectionString (Settings)" DbObjectName="Pos.dbo.view_ReturSubJual_Stock" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT NomorFaktur, KodeStock, NamaStock, Qty, Satuan, Harga, SubJumlah, Disc, DiscRp, Jumlah FROM dbo.view_ReturSubJual_Stock</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="NomorFaktur" DataSetColumn="NomorFaktur" />
+              <Mapping SourceColumn="KodeStock" DataSetColumn="KodeStock" />
+              <Mapping SourceColumn="NamaStock" DataSetColumn="NamaStock" />
+              <Mapping SourceColumn="Qty" DataSetColumn="Qty" />
+              <Mapping SourceColumn="Satuan" DataSetColumn="Satuan" />
+              <Mapping SourceColumn="Harga" DataSetColumn="Harga" />
+              <Mapping SourceColumn="SubJumlah" DataSetColumn="SubJumlah" />
+              <Mapping SourceColumn="Disc" DataSetColumn="Disc" />
+              <Mapping SourceColumn="DiscRp" DataSetColumn="DiscRp" />
+              <Mapping SourceColumn="Jumlah" DataSetColumn="Jumlah" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="view_ReturBeli_SupplierTableAdapter" GeneratorDataComponentClassName="view_ReturBeli_SupplierTableAdapter" Name="view_ReturBeli_Supplier" UserDataComponentName="view_ReturBeli_SupplierTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ConnectionString (Settings)" DbObjectName="Pos.dbo.view_ReturBeli_Supplier" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT NamaSupplier, NomorFaktur, TglTransaksi, KodeSupplier, NoExFaktur, SubTotal, DiscTotal, DiscRp, JumlahPembelian FROM dbo.view_ReturBeli_Supplier</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="NamaSupplier" DataSetColumn="NamaSupplier" />
+              <Mapping SourceColumn="NomorFaktur" DataSetColumn="NomorFaktur" />
+              <Mapping SourceColumn="TglTransaksi" DataSetColumn="TglTransaksi" />
+              <Mapping SourceColumn="KodeSupplier" DataSetColumn="KodeSupplier" />
+              <Mapping SourceColumn="NoExFaktur" DataSetColumn="NoExFaktur" />
+              <Mapping SourceColumn="SubTotal" DataSetColumn="SubTotal" />
+              <Mapping SourceColumn="DiscTotal" DataSetColumn="DiscTotal" />
+              <Mapping SourceColumn="DiscRp" DataSetColumn="DiscRp" />
+              <Mapping SourceColumn="JumlahPembelian" DataSetColumn="JumlahPembelian" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="view_ReturSubBeli_StockTableAdapter" GeneratorDataComponentClassName="view_ReturSubBeli_StockTableAdapter" Name="view_ReturSubBeli_Stock" UserDataComponentName="view_ReturSubBeli_StockTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ConnectionString (Settings)" DbObjectName="Pos.dbo.view_ReturSubBeli_Stock" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT NomorFaktur, KodeStock, NamaStock, Qty, Satuan, HargaBeli, SubJumlah, Disc, DiscRp, Jumlah FROM dbo.view_ReturSubBeli_Stock</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="NomorFaktur" DataSetColumn="NomorFaktur" />
+              <Mapping SourceColumn="KodeStock" DataSetColumn="KodeStock" />
+              <Mapping SourceColumn="NamaStock" DataSetColumn="NamaStock" />
+              <Mapping SourceColumn="Qty" DataSetColumn="Qty" />
+              <Mapping SourceColumn="Satuan" DataSetColumn="Satuan" />
+              <Mapping SourceColumn="HargaBeli" DataSetColumn="HargaBeli" />
+              <Mapping SourceColumn="SubJumlah" DataSetColumn="SubJumlah" />
+              <Mapping SourceColumn="Disc" DataSetColumn="Disc" />
+              <Mapping SourceColumn="DiscRp" DataSetColumn="DiscRp" />
+              <Mapping SourceColumn="Jumlah" DataSetColumn="Jumlah" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Retur" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="Retur" msprop:Generator_UserDSName="Retur" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="view_ReturJual_NoBon" msprop:Generator_UserTableName="view_ReturJual_NoBon" msprop:Generator_RowDeletedName="view_ReturJual_NoBonRowDeleted" msprop:Generator_TableClassName="view_ReturJual_NoBonDataTable" msprop:Generator_RowChangedName="view_ReturJual_NoBonRowChanged" msprop:Generator_RowClassName="view_ReturJual_NoBonRow" msprop:Generator_RowChangingName="view_ReturJual_NoBonRowChanging" msprop:Generator_RowEvArgName="view_ReturJual_NoBonRowChangeEvent" msprop:Generator_RowEvHandlerName="view_ReturJual_NoBonRowChangeEventHandler" msprop:Generator_TablePropName="view_ReturJual_NoBon" msprop:Generator_TableVarName="tableview_ReturJual_NoBon" msprop:Generator_RowDeletingName="view_ReturJual_NoBonRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="NomorFaktur" msprop:Generator_UserColumnName="NomorFaktur" msprop:Generator_ColumnPropNameInRow="NomorFaktur" msprop:Generator_ColumnVarNameInTable="columnNomorFaktur" msprop:Generator_ColumnPropNameInTable="NomorFakturColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TglTransaksi" msprop:Generator_UserColumnName="TglTransaksi" msprop:Generator_ColumnPropNameInRow="TglTransaksi" msprop:Generator_ColumnVarNameInTable="columnTglTransaksi" msprop:Generator_ColumnPropNameInTable="TglTransaksiColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="NoExFaktur" msprop:Generator_UserColumnName="NoExFaktur" msprop:Generator_ColumnPropNameInRow="NoExFaktur" msprop:Generator_ColumnVarNameInTable="columnNoExFaktur" msprop:Generator_ColumnPropNameInTable="NoExFakturColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="SubTotal" msprop:Generator_UserColumnName="SubTotal" msprop:Generator_ColumnPropNameInRow="SubTotal" msprop:Generator_ColumnVarNameInTable="columnSubTotal" msprop:Generator_ColumnPropNameInTable="SubTotalColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="DiscTotal" msprop:Generator_UserColumnName="DiscTotal" msprop:Generator_ColumnPropNameInRow="DiscTotal" msprop:Generator_ColumnVarNameInTable="columnDiscTotal" msprop:Generator_ColumnPropNameInTable="DiscTotalColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="DiscRp" msprop:Generator_UserColumnName="DiscRp" msprop:Generator_ColumnPropNameInRow="DiscRp" msprop:Generator_ColumnVarNameInTable="columnDiscRp" msprop:Generator_ColumnPropNameInTable="DiscRpColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="JumlahRetur" msprop:Generator_UserColumnName="JumlahRetur" msprop:Generator_ColumnPropNameInRow="JumlahRetur" msprop:Generator_ColumnVarNameInTable="columnJumlahRetur" msprop:Generator_ColumnPropNameInTable="JumlahReturColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="KodePelanggan" msprop:Generator_UserColumnName="KodePelanggan" msprop:Generator_ColumnPropNameInRow="KodePelanggan" msprop:Generator_ColumnVarNameInTable="columnKodePelanggan" msprop:Generator_ColumnPropNameInTable="KodePelangganColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="15" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="NamaPelanggan" msprop:Generator_UserColumnName="NamaPelanggan" msprop:Generator_ColumnPropNameInRow="NamaPelanggan" msprop:Generator_ColumnVarNameInTable="columnNamaPelanggan" msprop:Generator_ColumnPropNameInTable="NamaPelangganColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Pembayaran" msprop:Generator_UserColumnName="Pembayaran" msprop:Generator_ColumnPropNameInRow="Pembayaran" msprop:Generator_ColumnVarNameInTable="columnPembayaran" msprop:Generator_ColumnPropNameInTable="PembayaranColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="KodeSalesman" msprop:Generator_UserColumnName="KodeSalesman" msprop:Generator_ColumnPropNameInRow="KodeSalesman" msprop:Generator_ColumnVarNameInTable="columnKodeSalesman" msprop:Generator_ColumnPropNameInTable="KodeSalesmanColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="15" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="view_ReturSubJual_Stock" msprop:Generator_UserTableName="view_ReturSubJual_Stock" msprop:Generator_RowDeletedName="view_ReturSubJual_StockRowDeleted" msprop:Generator_TableClassName="view_ReturSubJual_StockDataTable" msprop:Generator_RowChangedName="view_ReturSubJual_StockRowChanged" msprop:Generator_RowClassName="view_ReturSubJual_StockRow" msprop:Generator_RowChangingName="view_ReturSubJual_StockRowChanging" msprop:Generator_RowEvArgName="view_ReturSubJual_StockRowChangeEvent" msprop:Generator_RowEvHandlerName="view_ReturSubJual_StockRowChangeEventHandler" msprop:Generator_TablePropName="view_ReturSubJual_Stock" msprop:Generator_TableVarName="tableview_ReturSubJual_Stock" msprop:Generator_RowDeletingName="view_ReturSubJual_StockRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="NomorFaktur" msprop:Generator_UserColumnName="NomorFaktur" msprop:Generator_ColumnPropNameInRow="NomorFaktur" msprop:Generator_ColumnVarNameInTable="columnNomorFaktur" msprop:Generator_ColumnPropNameInTable="NomorFakturColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="KodeStock" msprop:Generator_UserColumnName="KodeStock" msprop:Generator_ColumnPropNameInRow="KodeStock" msprop:Generator_ColumnVarNameInTable="columnKodeStock" msprop:Generator_ColumnPropNameInTable="KodeStockColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="25" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="NamaStock" msprop:Generator_UserColumnName="NamaStock" msprop:Generator_ColumnPropNameInRow="NamaStock" msprop:Generator_ColumnVarNameInTable="columnNamaStock" msprop:Generator_ColumnPropNameInTable="NamaStockColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Qty" msprop:Generator_UserColumnName="Qty" msprop:Generator_ColumnPropNameInRow="Qty" msprop:Generator_ColumnVarNameInTable="columnQty" msprop:Generator_ColumnPropNameInTable="QtyColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="Satuan" msprop:Generator_UserColumnName="Satuan" msprop:Generator_ColumnPropNameInRow="Satuan" msprop:Generator_ColumnVarNameInTable="columnSatuan" msprop:Generator_ColumnPropNameInTable="SatuanColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="15" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Harga" msprop:Generator_UserColumnName="Harga" msprop:Generator_ColumnPropNameInRow="Harga" msprop:Generator_ColumnVarNameInTable="columnHarga" msprop:Generator_ColumnPropNameInTable="HargaColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="SubJumlah" msprop:Generator_UserColumnName="SubJumlah" msprop:Generator_ColumnPropNameInRow="SubJumlah" msprop:Generator_ColumnVarNameInTable="columnSubJumlah" msprop:Generator_ColumnPropNameInTable="SubJumlahColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="Disc" msprop:Generator_UserColumnName="Disc" msprop:Generator_ColumnPropNameInRow="Disc" msprop:Generator_ColumnVarNameInTable="columnDisc" msprop:Generator_ColumnPropNameInTable="DiscColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="DiscRp" msprop:Generator_UserColumnName="DiscRp" msprop:Generator_ColumnPropNameInRow="DiscRp" msprop:Generator_ColumnVarNameInTable="columnDiscRp" msprop:Generator_ColumnPropNameInTable="DiscRpColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="Jumlah" msprop:Generator_UserColumnName="Jumlah" msprop:Generator_ColumnPropNameInRow="Jumlah" msprop:Generator_ColumnVarNameInTable="columnJumlah" msprop:Generator_ColumnPropNameInTable="JumlahColumn" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="view_ReturBeli_Supplier" msprop:Generator_UserTableName="view_ReturBeli_Supplier" msprop:Generator_RowDeletedName="view_ReturBeli_SupplierRowDeleted" msprop:Generator_TableClassName="view_ReturBeli_SupplierDataTable" msprop:Generator_RowChangedName="view_ReturBeli_SupplierRowChanged" msprop:Generator_RowClassName="view_ReturBeli_SupplierRow" msprop:Generator_RowChangingName="view_ReturBeli_SupplierRowChanging" msprop:Generator_RowEvArgName="view_ReturBeli_SupplierRowChangeEvent" msprop:Generator_RowEvHandlerName="view_ReturBeli_SupplierRowChangeEventHandler" msprop:Generator_TablePropName="view_ReturBeli_Supplier" msprop:Generator_TableVarName="tableview_ReturBeli_Supplier" msprop:Generator_RowDeletingName="view_ReturBeli_SupplierRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="NamaSupplier" msprop:Generator_UserColumnName="NamaSupplier" msprop:Generator_ColumnPropNameInRow="NamaSupplier" msprop:Generator_ColumnVarNameInTable="columnNamaSupplier" msprop:Generator_ColumnPropNameInTable="NamaSupplierColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="NomorFaktur" msprop:Generator_UserColumnName="NomorFaktur" msprop:Generator_ColumnPropNameInRow="NomorFaktur" msprop:Generator_ColumnVarNameInTable="columnNomorFaktur" msprop:Generator_ColumnPropNameInTable="NomorFakturColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TglTransaksi" msprop:Generator_UserColumnName="TglTransaksi" msprop:Generator_ColumnPropNameInRow="TglTransaksi" msprop:Generator_ColumnVarNameInTable="columnTglTransaksi" msprop:Generator_ColumnPropNameInTable="TglTransaksiColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="KodeSupplier" msprop:Generator_UserColumnName="KodeSupplier" msprop:Generator_ColumnPropNameInRow="KodeSupplier" msprop:Generator_ColumnVarNameInTable="columnKodeSupplier" msprop:Generator_ColumnPropNameInTable="KodeSupplierColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="15" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="NoExFaktur" msprop:Generator_UserColumnName="NoExFaktur" msprop:Generator_ColumnPropNameInRow="NoExFaktur" msprop:Generator_ColumnVarNameInTable="columnNoExFaktur" msprop:Generator_ColumnPropNameInTable="NoExFakturColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="SubTotal" msprop:Generator_UserColumnName="SubTotal" msprop:Generator_ColumnPropNameInRow="SubTotal" msprop:Generator_ColumnVarNameInTable="columnSubTotal" msprop:Generator_ColumnPropNameInTable="SubTotalColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="DiscTotal" msprop:Generator_UserColumnName="DiscTotal" msprop:Generator_ColumnPropNameInRow="DiscTotal" msprop:Generator_ColumnVarNameInTable="columnDiscTotal" msprop:Generator_ColumnPropNameInTable="DiscTotalColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="DiscRp" msprop:Generator_UserColumnName="DiscRp" msprop:Generator_ColumnPropNameInRow="DiscRp" msprop:Generator_ColumnVarNameInTable="columnDiscRp" msprop:Generator_ColumnPropNameInTable="DiscRpColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="JumlahPembelian" msprop:Generator_UserColumnName="JumlahPembelian" msprop:Generator_ColumnPropNameInRow="JumlahPembelian" msprop:Generator_ColumnVarNameInTable="columnJumlahPembelian" msprop:Generator_ColumnPropNameInTable="JumlahPembelianColumn" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="view_ReturSubBeli_Stock" msprop:Generator_UserTableName="view_ReturSubBeli_Stock" msprop:Generator_RowDeletedName="view_ReturSubBeli_StockRowDeleted" msprop:Generator_TableClassName="view_ReturSubBeli_StockDataTable" msprop:Generator_RowChangedName="view_ReturSubBeli_StockRowChanged" msprop:Generator_RowClassName="view_ReturSubBeli_StockRow" msprop:Generator_RowChangingName="view_ReturSubBeli_StockRowChanging" msprop:Generator_RowEvArgName="view_ReturSubBeli_StockRowChangeEvent" msprop:Generator_RowEvHandlerName="view_ReturSubBeli_StockRowChangeEventHandler" msprop:Generator_TablePropName="view_ReturSubBeli_Stock" msprop:Generator_TableVarName="tableview_ReturSubBeli_Stock" msprop:Generator_RowDeletingName="view_ReturSubBeli_StockRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="NomorFaktur" msprop:Generator_UserColumnName="NomorFaktur" msprop:Generator_ColumnPropNameInRow="NomorFaktur" msprop:Generator_ColumnVarNameInTable="columnNomorFaktur" msprop:Generator_ColumnPropNameInTable="NomorFakturColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="30" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="KodeStock" msprop:Generator_UserColumnName="KodeStock" msprop:Generator_ColumnPropNameInRow="KodeStock" msprop:Generator_ColumnVarNameInTable="columnKodeStock" msprop:Generator_ColumnPropNameInTable="KodeStockColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="25" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="NamaStock" msprop:Generator_UserColumnName="NamaStock" msprop:Generator_ColumnPropNameInRow="NamaStock" msprop:Generator_ColumnVarNameInTable="columnNamaStock" msprop:Generator_ColumnPropNameInTable="NamaStockColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Qty" msprop:Generator_UserColumnName="Qty" msprop:Generator_ColumnPropNameInRow="Qty" msprop:Generator_ColumnVarNameInTable="columnQty" msprop:Generator_ColumnPropNameInTable="QtyColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="Satuan" msprop:Generator_UserColumnName="Satuan" msprop:Generator_ColumnPropNameInRow="Satuan" msprop:Generator_ColumnVarNameInTable="columnSatuan" msprop:Generator_ColumnPropNameInTable="SatuanColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="15" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="HargaBeli" msprop:Generator_UserColumnName="HargaBeli" msprop:Generator_ColumnPropNameInRow="HargaBeli" msprop:Generator_ColumnVarNameInTable="columnHargaBeli" msprop:Generator_ColumnPropNameInTable="HargaBeliColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="SubJumlah" msprop:Generator_UserColumnName="SubJumlah" msprop:Generator_ColumnPropNameInRow="SubJumlah" msprop:Generator_ColumnVarNameInTable="columnSubJumlah" msprop:Generator_ColumnPropNameInTable="SubJumlahColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="Disc" msprop:Generator_UserColumnName="Disc" msprop:Generator_ColumnPropNameInRow="Disc" msprop:Generator_ColumnVarNameInTable="columnDisc" msprop:Generator_ColumnPropNameInTable="DiscColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="DiscRp" msprop:Generator_UserColumnName="DiscRp" msprop:Generator_ColumnPropNameInRow="DiscRp" msprop:Generator_ColumnVarNameInTable="columnDiscRp" msprop:Generator_ColumnPropNameInTable="DiscRpColumn" type="xs:double" minOccurs="0" />
+              <xs:element name="Jumlah" msprop:Generator_UserColumnName="Jumlah" msprop:Generator_ColumnPropNameInRow="Jumlah" msprop:Generator_ColumnVarNameInTable="columnJumlah" msprop:Generator_ColumnPropNameInTable="JumlahColumn" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:view_ReturJual_NoBon" />
+      <xs:field xpath="mstns:NomorFaktur" />
+    </xs:unique>
+    <xs:unique name="view_ReturBeli_Supplier_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:view_ReturBeli_Supplier" />
+      <xs:field xpath="mstns:NomorFaktur" />
+    </xs:unique>
+  </xs:element>
+  <xs:annotation>
+    <xs:appinfo>
+      <msdata:Relationship name="view_ReturJual_NoBon_view_ReturSubJual_Stock" msdata:parent="view_ReturJual_NoBon" msdata:child="view_ReturSubJual_Stock" msdata:parentkey="NomorFaktur" msdata:childkey="NomorFaktur" msprop:Generator_UserRelationName="view_ReturJual_NoBon_view_ReturSubJual_Stock" msprop:Generator_RelationVarName="relationview_ReturJual_NoBon_view_ReturSubJual_Stock" msprop:Generator_UserChildTable="view_ReturSubJual_Stock" msprop:Generator_UserParentTable="view_ReturJual_NoBon" msprop:Generator_ParentPropName="view_ReturJual_NoBonRow" msprop:Generator_ChildPropName="Getview_ReturSubJual_StockRows" />
+      <msdata:Relationship name="view_ReturBeli_Supplier_view_ReturSubBeli_Stock" msdata:parent="view_ReturBeli_Supplier" msdata:child="view_ReturSubBeli_Stock" msdata:parentkey="NomorFaktur" msdata:childkey="NomorFaktur" msprop:Generator_UserRelationName="view_ReturBeli_Supplier_view_ReturSubBeli_Stock" msprop:Generator_RelationVarName="relationview_ReturBeli_Supplier_view_ReturSubBeli_Stock" msprop:Generator_UserChildTable="view_ReturSubBeli_Stock" msprop:Generator_UserParentTable="view_ReturBeli_Supplier" msprop:Generator_ParentPropName="view_ReturBeli_SupplierRow" msprop:Generator_ChildPropName="Getview_ReturSubBeli_StockRows" />
+    </xs:appinfo>
+  </xs:annotation>
+</xs:schema>

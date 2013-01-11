@@ -1,0 +1,300 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Penjualan" targetNamespace="http://tempuri.org/Penjualan.xsd" xmlns:mstns="http://tempuri.org/Penjualan.xsd" xmlns="http://tempuri.org/Penjualan.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="ConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="ConnectionString (Settings)" PropertyReference="ApplicationSettings.Accounting_Solution_Software.Properties.Settings.GlobalReference.Default.ConnectionString" Provider="System.Data.OleDb" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="view_jual_nobonTableAdapter" GeneratorDataComponentClassName="view_jual_nobonTableAdapter" Name="view_jual_nobon" UserDataComponentName="view_jual_nobonTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ConnectionString (Settings)" DbObjectName="dbvioletha.dbo.view_jual_nobon" DbObjectType="View" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT     KodeCbg, namaCbg, NoBon, TK, Tanggal, KodeCust, Customer, Alamat, Telp, NoSJ, Tempo, JthTempo, KdHarga, Bruto, DiskonPcnt, Diskon, PPnCara, 
+                      PPnPcnt, PPn, Ongkos, Netto, Ket, Posting, UserUpDate, Bayar, ByrTunai, ByrDebit, ByrKKredit, ByrLain, TrmUang, Kembali, KKNoKartu, KKBank, 
+                      KKAN, DBNoKartu, DBBank, DBAN, KetLain, Kasir, Counter, Cetak, CaraByr, AppCetak, TglInput, UserInput, TglUpDate, BrutoNonDiskon
+FROM         view_jual_nobon</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="KodeCbg" DataSetColumn="KodeCbg" />
+              <Mapping SourceColumn="namaCbg" DataSetColumn="namaCbg" />
+              <Mapping SourceColumn="TK" DataSetColumn="TK" />
+              <Mapping SourceColumn="Tanggal" DataSetColumn="Tanggal" />
+              <Mapping SourceColumn="KodeCust" DataSetColumn="KodeCust" />
+              <Mapping SourceColumn="Customer" DataSetColumn="Customer" />
+              <Mapping SourceColumn="Alamat" DataSetColumn="Alamat" />
+              <Mapping SourceColumn="Telp" DataSetColumn="Telp" />
+              <Mapping SourceColumn="NoSJ" DataSetColumn="NoSJ" />
+              <Mapping SourceColumn="Tempo" DataSetColumn="Tempo" />
+              <Mapping SourceColumn="JthTempo" DataSetColumn="JthTempo" />
+              <Mapping SourceColumn="KdHarga" DataSetColumn="KdHarga" />
+              <Mapping SourceColumn="Bruto" DataSetColumn="Bruto" />
+              <Mapping SourceColumn="DiskonPcnt" DataSetColumn="DiskonPcnt" />
+              <Mapping SourceColumn="Diskon" DataSetColumn="Diskon" />
+              <Mapping SourceColumn="PPnCara" DataSetColumn="PPnCara" />
+              <Mapping SourceColumn="PPnPcnt" DataSetColumn="PPnPcnt" />
+              <Mapping SourceColumn="PPn" DataSetColumn="PPn" />
+              <Mapping SourceColumn="Ongkos" DataSetColumn="Ongkos" />
+              <Mapping SourceColumn="Netto" DataSetColumn="Netto" />
+              <Mapping SourceColumn="Ket" DataSetColumn="Ket" />
+              <Mapping SourceColumn="Posting" DataSetColumn="Posting" />
+              <Mapping SourceColumn="UserUpDate" DataSetColumn="UserUpDate" />
+              <Mapping SourceColumn="Bayar" DataSetColumn="Bayar" />
+              <Mapping SourceColumn="ByrTunai" DataSetColumn="ByrTunai" />
+              <Mapping SourceColumn="ByrDebit" DataSetColumn="ByrDebit" />
+              <Mapping SourceColumn="ByrKKredit" DataSetColumn="ByrKKredit" />
+              <Mapping SourceColumn="ByrLain" DataSetColumn="ByrLain" />
+              <Mapping SourceColumn="TrmUang" DataSetColumn="TrmUang" />
+              <Mapping SourceColumn="Kembali" DataSetColumn="Kembali" />
+              <Mapping SourceColumn="KKNoKartu" DataSetColumn="KKNoKartu" />
+              <Mapping SourceColumn="KKBank" DataSetColumn="KKBank" />
+              <Mapping SourceColumn="KKAN" DataSetColumn="KKAN" />
+              <Mapping SourceColumn="DBNoKartu" DataSetColumn="DBNoKartu" />
+              <Mapping SourceColumn="DBBank" DataSetColumn="DBBank" />
+              <Mapping SourceColumn="DBAN" DataSetColumn="DBAN" />
+              <Mapping SourceColumn="KetLain" DataSetColumn="KetLain" />
+              <Mapping SourceColumn="Kasir" DataSetColumn="Kasir" />
+              <Mapping SourceColumn="Counter" DataSetColumn="Counter" />
+              <Mapping SourceColumn="Cetak" DataSetColumn="Cetak" />
+              <Mapping SourceColumn="CaraByr" DataSetColumn="CaraByr" />
+              <Mapping SourceColumn="AppCetak" DataSetColumn="AppCetak" />
+              <Mapping SourceColumn="TglInput" DataSetColumn="TglInput" />
+              <Mapping SourceColumn="UserInput" DataSetColumn="UserInput" />
+              <Mapping SourceColumn="TglUpDate" DataSetColumn="TglUpDate" />
+              <Mapping SourceColumn="BrutoNonDiskon" DataSetColumn="BrutoNonDiskon" />
+              <Mapping SourceColumn="Nobon" DataSetColumn="Nobon" />
+              <Mapping SourceColumn="NoBon" DataSetColumn="NoBon" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="Penjualan" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="Penjualan" msprop:Generator_DataSetName="Penjualan" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="view_jual_nobon" msprop:Generator_UserTableName="view_jual_nobon" msprop:Generator_RowDeletedName="view_jual_nobonRowDeleted" msprop:Generator_RowChangedName="view_jual_nobonRowChanged" msprop:Generator_RowClassName="view_jual_nobonRow" msprop:Generator_RowChangingName="view_jual_nobonRowChanging" msprop:Generator_RowEvArgName="view_jual_nobonRowChangeEvent" msprop:Generator_RowEvHandlerName="view_jual_nobonRowChangeEventHandler" msprop:Generator_TableClassName="view_jual_nobonDataTable" msprop:Generator_TableVarName="tableview_jual_nobon" msprop:Generator_RowDeletingName="view_jual_nobonRowDeleting" msprop:Generator_TablePropName="view_jual_nobon">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="KodeCbg" msdata:ReadOnly="true" msprop:Generator_UserColumnName="KodeCbg" msprop:Generator_ColumnVarNameInTable="columnKodeCbg" msprop:Generator_ColumnPropNameInRow="KodeCbg" msprop:Generator_ColumnPropNameInTable="KodeCbgColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="4" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="namaCbg" msprop:Generator_UserColumnName="namaCbg" msprop:Generator_ColumnVarNameInTable="columnnamaCbg" msprop:Generator_ColumnPropNameInRow="namaCbg" msprop:Generator_ColumnPropNameInTable="namaCbgColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="NoBon" msprop:Generator_UserColumnName="NoBon" msprop:Generator_ColumnVarNameInTable="columnNoBon" msprop:Generator_ColumnPropNameInRow="NoBon" msprop:Generator_ColumnPropNameInTable="NoBonColumn">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TK" msprop:Generator_UserColumnName="TK" msprop:Generator_ColumnVarNameInTable="columnTK" msprop:Generator_ColumnPropNameInRow="TK" msprop:Generator_ColumnPropNameInTable="TKColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="1" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Tanggal" msprop:Generator_UserColumnName="Tanggal" msprop:Generator_ColumnVarNameInTable="columnTanggal" msprop:Generator_ColumnPropNameInRow="Tanggal" msprop:Generator_ColumnPropNameInTable="TanggalColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="KodeCust" msprop:Generator_UserColumnName="KodeCust" msprop:Generator_ColumnVarNameInTable="columnKodeCust" msprop:Generator_ColumnPropNameInRow="KodeCust" msprop:Generator_ColumnPropNameInTable="KodeCustColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Customer" msprop:Generator_UserColumnName="Customer" msprop:Generator_ColumnVarNameInTable="columnCustomer" msprop:Generator_ColumnPropNameInRow="Customer" msprop:Generator_ColumnPropNameInTable="CustomerColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Alamat" msprop:Generator_UserColumnName="Alamat" msprop:Generator_ColumnVarNameInTable="columnAlamat" msprop:Generator_ColumnPropNameInRow="Alamat" msprop:Generator_ColumnPropNameInTable="AlamatColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2147483647" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Telp" msprop:Generator_UserColumnName="Telp" msprop:Generator_ColumnVarNameInTable="columnTelp" msprop:Generator_ColumnPropNameInRow="Telp" msprop:Generator_ColumnPropNameInTable="TelpColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="NoSJ" msprop:Generator_UserColumnName="NoSJ" msprop:Generator_ColumnVarNameInTable="columnNoSJ" msprop:Generator_ColumnPropNameInRow="NoSJ" msprop:Generator_ColumnPropNameInTable="NoSJColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Tempo" msprop:Generator_UserColumnName="Tempo" msprop:Generator_ColumnVarNameInTable="columnTempo" msprop:Generator_ColumnPropNameInRow="Tempo" msprop:Generator_ColumnPropNameInTable="TempoColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="JthTempo" msprop:Generator_UserColumnName="JthTempo" msprop:Generator_ColumnVarNameInTable="columnJthTempo" msprop:Generator_ColumnPropNameInRow="JthTempo" msprop:Generator_ColumnPropNameInTable="JthTempoColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="KdHarga" msprop:Generator_UserColumnName="KdHarga" msprop:Generator_ColumnVarNameInTable="columnKdHarga" msprop:Generator_ColumnPropNameInRow="KdHarga" msprop:Generator_ColumnPropNameInTable="KdHargaColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="1" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Bruto" msprop:Generator_UserColumnName="Bruto" msprop:Generator_ColumnVarNameInTable="columnBruto" msprop:Generator_ColumnPropNameInRow="Bruto" msprop:Generator_ColumnPropNameInTable="BrutoColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="DiskonPcnt" msprop:Generator_UserColumnName="DiskonPcnt" msprop:Generator_ColumnVarNameInTable="columnDiskonPcnt" msprop:Generator_ColumnPropNameInRow="DiskonPcnt" msprop:Generator_ColumnPropNameInTable="DiskonPcntColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Diskon" msprop:Generator_UserColumnName="Diskon" msprop:Generator_ColumnVarNameInTable="columnDiskon" msprop:Generator_ColumnPropNameInRow="Diskon" msprop:Generator_ColumnPropNameInTable="DiskonColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="PPnCara" msprop:Generator_UserColumnName="PPnCara" msprop:Generator_ColumnVarNameInTable="columnPPnCara" msprop:Generator_ColumnPropNameInRow="PPnCara" msprop:Generator_ColumnPropNameInTable="PPnCaraColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="PPnPcnt" msprop:Generator_UserColumnName="PPnPcnt" msprop:Generator_ColumnVarNameInTable="columnPPnPcnt" msprop:Generator_ColumnPropNameInRow="PPnPcnt" msprop:Generator_ColumnPropNameInTable="PPnPcntColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="PPn" msprop:Generator_UserColumnName="PPn" msprop:Generator_ColumnVarNameInTable="columnPPn" msprop:Generator_ColumnPropNameInRow="PPn" msprop:Generator_ColumnPropNameInTable="PPnColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Ongkos" msprop:Generator_UserColumnName="Ongkos" msprop:Generator_ColumnVarNameInTable="columnOngkos" msprop:Generator_ColumnPropNameInRow="Ongkos" msprop:Generator_ColumnPropNameInTable="OngkosColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Netto" msprop:Generator_UserColumnName="Netto" msprop:Generator_ColumnVarNameInTable="columnNetto" msprop:Generator_ColumnPropNameInRow="Netto" msprop:Generator_ColumnPropNameInTable="NettoColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Ket" msprop:Generator_UserColumnName="Ket" msprop:Generator_ColumnVarNameInTable="columnKet" msprop:Generator_ColumnPropNameInRow="Ket" msprop:Generator_ColumnPropNameInTable="KetColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Posting" msprop:Generator_UserColumnName="Posting" msprop:Generator_ColumnVarNameInTable="columnPosting" msprop:Generator_ColumnPropNameInRow="Posting" msprop:Generator_ColumnPropNameInTable="PostingColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="1" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="UserUpDate" msprop:Generator_UserColumnName="UserUpDate" msprop:Generator_ColumnVarNameInTable="columnUserUpDate" msprop:Generator_ColumnPropNameInRow="UserUpDate" msprop:Generator_ColumnPropNameInTable="UserUpDateColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Bayar" msprop:Generator_UserColumnName="Bayar" msprop:Generator_ColumnVarNameInTable="columnBayar" msprop:Generator_ColumnPropNameInRow="Bayar" msprop:Generator_ColumnPropNameInTable="BayarColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="ByrTunai" msprop:Generator_UserColumnName="ByrTunai" msprop:Generator_ColumnVarNameInTable="columnByrTunai" msprop:Generator_ColumnPropNameInRow="ByrTunai" msprop:Generator_ColumnPropNameInTable="ByrTunaiColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="ByrDebit" msprop:Generator_UserColumnName="ByrDebit" msprop:Generator_ColumnVarNameInTable="columnByrDebit" msprop:Generator_ColumnPropNameInRow="ByrDebit" msprop:Generator_ColumnPropNameInTable="ByrDebitColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="ByrKKredit" msprop:Generator_UserColumnName="ByrKKredit" msprop:Generator_ColumnVarNameInTable="columnByrKKredit" msprop:Generator_ColumnPropNameInRow="ByrKKredit" msprop:Generator_ColumnPropNameInTable="ByrKKreditColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="ByrLain" msprop:Generator_UserColumnName="ByrLain" msprop:Generator_ColumnVarNameInTable="columnByrLain" msprop:Generator_ColumnPropNameInRow="ByrLain" msprop:Generator_ColumnPropNameInTable="ByrLainColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="TrmUang" msprop:Generator_UserColumnName="TrmUang" msprop:Generator_ColumnVarNameInTable="columnTrmUang" msprop:Generator_ColumnPropNameInRow="TrmUang" msprop:Generator_ColumnPropNameInTable="TrmUangColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="Kembali" msprop:Generator_UserColumnName="Kembali" msprop:Generator_ColumnVarNameInTable="columnKembali" msprop:Generator_ColumnPropNameInRow="Kembali" msprop:Generator_ColumnPropNameInTable="KembaliColumn" type="xs:decimal" minOccurs="0" />
+              <xs:element name="KKNoKartu" msprop:Generator_UserColumnName="KKNoKartu" msprop:Generator_ColumnVarNameInTable="columnKKNoKartu" msprop:Generator_ColumnPropNameInRow="KKNoKartu" msprop:Generator_ColumnPropNameInTable="KKNoKartuColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="KKBank" msprop:Generator_UserColumnName="KKBank" msprop:Generator_ColumnVarNameInTable="columnKKBank" msprop:Generator_ColumnPropNameInRow="KKBank" msprop:Generator_ColumnPropNameInTable="KKBankColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="KKAN" msprop:Generator_UserColumnName="KKAN" msprop:Generator_ColumnVarNameInTable="columnKKAN" msprop:Generator_ColumnPropNameInRow="KKAN" msprop:Generator_ColumnPropNameInTable="KKANColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="35" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="DBNoKartu" msprop:Generator_UserColumnName="DBNoKartu" msprop:Generator_ColumnVarNameInTable="columnDBNoKartu" msprop:Generator_ColumnPropNameInRow="DBNoKartu" msprop:Generator_ColumnPropNameInTable="DBNoKartuColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="DBBank" msprop:Generator_UserColumnName="DBBank" msprop:Generator_ColumnVarNameInTable="columnDBBank" msprop:Generator_ColumnPropNameInRow="DBBank" msprop:Generator_ColumnPropNameInTable="DBBankColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="20" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="DBAN" msprop:Generator_UserColumnName="DBAN" msprop:Generator_ColumnVarNameInTable="columnDBAN" msprop:Generator_ColumnPropNameInRow="DBAN" msprop:Generator_ColumnPropNameInTable="DBANColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="35" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="KetLain" msprop:Generator_UserColumnName="KetLain" msprop:Generator_ColumnVarNameInTable="columnKetLain" msprop:Generator_ColumnPropNameInRow="KetLain" msprop:Generator_ColumnPropNameInTable="KetLainColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="50" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Kasir" msprop:Generator_UserColumnName="Kasir" msprop:Generator_ColumnVarNameInTable="columnKasir" msprop:Generator_ColumnPropNameInRow="Kasir" msprop:Generator_ColumnPropNameInTable="KasirColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Counter" msprop:Generator_UserColumnName="Counter" msprop:Generator_ColumnVarNameInTable="columnCounter" msprop:Generator_ColumnPropNameInRow="Counter" msprop:Generator_ColumnPropNameInTable="CounterColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="2" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="Cetak" msprop:Generator_UserColumnName="Cetak" msprop:Generator_ColumnVarNameInTable="columnCetak" msprop:Generator_ColumnPropNameInRow="Cetak" msprop:Generator_ColumnPropNameInTable="CetakColumn" type="xs:int" minOccurs="0" />
+              <xs:element name="CaraByr" msprop:Generator_UserColumnName="CaraByr" msprop:Generator_ColumnVarNameInTable="columnCaraByr" msprop:Generator_ColumnPropNameInRow="CaraByr" msprop:Generator_ColumnPropNameInTable="CaraByrColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="1" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="AppCetak" msprop:Generator_UserColumnName="AppCetak" msprop:Generator_ColumnVarNameInTable="columnAppCetak" msprop:Generator_ColumnPropNameInRow="AppCetak" msprop:Generator_ColumnPropNameInTable="AppCetakColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="1" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TglInput" msprop:Generator_UserColumnName="TglInput" msprop:Generator_ColumnVarNameInTable="columnTglInput" msprop:Generator_ColumnPropNameInRow="TglInput" msprop:Generator_ColumnPropNameInTable="TglInputColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="UserInput" msprop:Generator_UserColumnName="UserInput" msprop:Generator_ColumnVarNameInTable="columnUserInput" msprop:Generator_ColumnPropNameInRow="UserInput" msprop:Generator_ColumnPropNameInTable="UserInputColumn" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="10" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="TglUpDate" msprop:Generator_UserColumnName="TglUpDate" msprop:Generator_ColumnVarNameInTable="columnTglUpDate" msprop:Generator_ColumnPropNameInRow="TglUpDate" msprop:Generator_ColumnPropNameInTable="TglUpDateColumn" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="BrutoNonDiskon" msprop:Generator_UserColumnName="BrutoNonDiskon" msprop:Generator_ColumnVarNameInTable="columnBrutoNonDiskon" msprop:Generator_ColumnPropNameInRow="BrutoNonDiskon" msprop:Generator_ColumnPropNameInTable="BrutoNonDiskonColumn" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:view_jual_nobon" />
+      <xs:field xpath="mstns:NoBon" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>
